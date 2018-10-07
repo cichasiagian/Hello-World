@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository
+
+Hi It's me Cicha!
+
+This version is an exercise for me to understand branch more
